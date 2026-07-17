@@ -2,4 +2,4 @@
 
 ## Pages
 
-### [Read our About Page] (about.md)
+### [About] (/about/)
