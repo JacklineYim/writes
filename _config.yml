@@ -3,3 +3,6 @@ title: testing title location
 description: testing description location
 
 mainfont: "Times New Roman"
+
+plugins:
+  - jekyll-remote-theme
