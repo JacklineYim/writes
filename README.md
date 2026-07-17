@@ -1,7 +1,7 @@
 # TEST
 
 ## [Testing Default](/testDefault/)
-## [Testing Post]/testPost/)
+## [Testing Post](/testPost/)
 
 ## Pages
 
