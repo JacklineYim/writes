@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Writing Samples"
 permalink: /pages/writing/
 ---
