@@ -2,6 +2,4 @@ theme: Minimal theme
 title: J. Yim Writes
 description: Creative and technical writing samples
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+
